@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/arduino-nfc-reader/static/css/main.043400a7.chunk.css",
+    "main.js": "/arduino-nfc-reader/static/js/main.ed496101.chunk.js",
+    "main.js.map": "/arduino-nfc-reader/static/js/main.ed496101.chunk.js.map",
+    "runtime-main.js": "/arduino-nfc-reader/static/js/runtime-main.0bf20c2e.js",
+    "runtime-main.js.map": "/arduino-nfc-reader/static/js/runtime-main.0bf20c2e.js.map",
+    "static/css/2.1eba3804.chunk.css": "/arduino-nfc-reader/static/css/2.1eba3804.chunk.css",
+    "static/js/2.218cd71b.chunk.js": "/arduino-nfc-reader/static/js/2.218cd71b.chunk.js",
+    "static/js/2.218cd71b.chunk.js.map": "/arduino-nfc-reader/static/js/2.218cd71b.chunk.js.map",
+    "index.html": "/arduino-nfc-reader/index.html",
+    "precache-manifest.fd500e3d198bb365ad659da7bb9225ea.js": "/arduino-nfc-reader/precache-manifest.fd500e3d198bb365ad659da7bb9225ea.js",
+    "service-worker.js": "/arduino-nfc-reader/service-worker.js",
+    "static/css/2.1eba3804.chunk.css.map": "/arduino-nfc-reader/static/css/2.1eba3804.chunk.css.map",
+    "static/css/main.043400a7.chunk.css.map": "/arduino-nfc-reader/static/css/main.043400a7.chunk.css.map",
+    "static/media/semantic.min.css": "/arduino-nfc-reader/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf20c2e.js",
+    "static/css/2.1eba3804.chunk.css",
+    "static/js/2.218cd71b.chunk.js",
+    "static/css/main.043400a7.chunk.css",
+    "static/js/main.ed496101.chunk.js"
+  ]
+}
